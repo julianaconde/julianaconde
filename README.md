@@ -1,4 +1,4 @@
-<h3> Olá! Eu sou a Juliana Conde, Dev Full Stack e criadora de conteúdo de programação, tecnologia e games! <br> <br>
+<h3> Olá! Eu sou a Juliana Conde, Dev Full Stack e criadora de conteúdo de programação e tecnologia! <br> <br>
 E gamer nas horas vagas! (Ragnarok On Line - Valhalla Server)</h3>
 <div align="left">
   <a href="https://github.com/julianaconde">
@@ -23,6 +23,7 @@ E gamer nas horas vagas! (Ragnarok On Line - Valhalla Server)</h3>
 <img align="center" alt="JulianaC-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
 </div>
+  </div>
   
 
   ![Snake animation](https://github.com/julianaconde/julianaconde/blob/output/github-contribution-grid-snake.svg)
