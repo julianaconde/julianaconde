@@ -22,9 +22,6 @@ E gamer nas horas vagas! (Ragnarok On Line - Valhalla Server)</h3>
   <img align="center" alt="JulianaC-MongoDB" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
 <img align="center" alt="JulianaC-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 
-  <h3> Interesses: </h3>
-  <img align="center" alt="JulianaC-Elixir" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg"> <br><br>
-
 </div>
   
 
