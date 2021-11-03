@@ -1,5 +1,3 @@
-# Repositório em Construção!
-
 <h3> Olá! Eu sou a Juliana Conde, Dev Full Stack e criadora de conteúdo de programação, tecnologia e games! <br> <br>
 E gamer nas horas vagas! (Ragnarok On Line - Valhalla Server)</h3>
 <div align="left">
