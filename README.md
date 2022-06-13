@@ -1,7 +1,7 @@
 <h3> Olá! <br>Eu sou a Juliana Conde, Dev Full Stack, criadora de conteúdo de programação e tecnologia. <br>Faço parte do OneBitCode Team <span>&#129304;&#127996;</span>
 </h3>
 
-<h5>Acompanhe o projeto GitHub para iniciantes no meu canal: https://www.youtube.com/channel/UCU8qSlPw0UYZ_sYkl6sTubg e no Instagram: @julianacondea. Vou ensinar como montar um perfil do zero e como trabalhar de forma correta na plataforma! </h5>
+<h5>Acompanhe o projeto GitHub para iniciantes no meu canal: https://www.youtube.com/channel/UCU8qSlPw0UYZ_sYkl6sTubg e no Instagram: @julianacondea. Vou ensinar a montar um perfil do zero e como trabalhar de forma correta na plataforma! </h5>
 <div align="center"><br>
   <img align="center" alt="JulianaC-Linux" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="JulianaC-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
