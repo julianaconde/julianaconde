@@ -60,5 +60,13 @@ You can find me here too 👇
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
   <img align="center" alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
  </div>
+ 
+ <br/>
+ <br>
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaconde&show_icons=true)
 
 
+## Work In Progress 👇
+
+![Snake_animation](https://github.com/julianaconde/julianaconde/blob/output/github-contribution-grid-snake.svg)
