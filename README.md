@@ -1,6 +1,7 @@
-# Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" >🤓 
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> 🤓
 
 <img src="https://komarev.com/ghpvc/?username=julianaconde&color=yellow" alt="Profile views" /> 
+
 
 👩‍🦱 I'm FullStack Developer & Instructor focused on helping people to start programming!
 
@@ -12,10 +13,10 @@
 
 📝 I am the author of this weekly newsletter 👉 [Sudo apt-get Update](https://www.linkedin.com/newsletters/sudo-apt-get-update-6914370831196246016/) on Linkedin 
 
-
-<br>
+<br/>
 
 You can find me here too 👇
+
 <div>
 <a href="https://instagram.com/julianacondea" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
@@ -31,10 +32,7 @@ You can find me here too 👇
 </div>
 <br>
 
-
-
-## Tech Stack
-
+# Tech Stack
 
 <div align="center"><br>
 
@@ -58,15 +56,7 @@ You can find me here too 👇
   <img align="center" alt="Sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">  
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
-</div>
-
-<br/>
-
-## Work In Progress 👇
-
-![Snake_animation](https://github.com/julianaconde/julianaconde/blob/output/github-contribution-grid-snake.svg)
-
-<br/>
-
+  <img align="center" alt="Elixir" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white">
+ </div>
 
 
