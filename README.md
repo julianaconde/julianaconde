@@ -32,7 +32,7 @@ You can find me here too 👇
 </div>
 <br>
 
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=JulianaCondeA&layout=wide&show_reply=off&show_retweet=off" />
+<img width="300em" src="https://github-readme-twitter-gazf.vercel.app/api?id=JulianaCondeA&layout=wide&show_reply=off&show_retweet=off" />
 
 # Tech Stack
 
