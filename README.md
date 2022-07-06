@@ -67,6 +67,6 @@ You can find me here too 👇
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaconde&show_icons=true)
 
 
-## Work In Progress 👇
+# Work In Progress 👇
 
 ![Snake_animation](https://github.com/julianaconde/julianaconde/blob/output/github-contribution-grid-snake.svg)
