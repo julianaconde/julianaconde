@@ -32,8 +32,6 @@ You can find me here too 👇
 </div>
 <br>
 
-<img width="300em" src="https://github-readme-twitter-gazf.vercel.app/api?id=JulianaCondeA&layout=wide&show_reply=on&show_retweet=on" />
-
 # Tech Stack
 
 <div align="center"><br>
