@@ -9,8 +9,6 @@
 
 🤘 I’m currently working at [OneBitCode](https://github.com/OneBitCodeBlog)
 
-▶️ I regularly post videos about programming, career and tecnology, here 👉 <a href="https://www.youtube.com/channel/UCU8qSlPw0UYZ_sYkl6sTubg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="60"> </a>🔔 and you need to watch my new serie: **"GitHub for Beginners"**
-
 📝 I am the author of this weekly newsletter 👉 [Sudo apt-get Update](https://www.linkedin.com/newsletters/sudo-apt-get-update-6914370831196246016/) on Linkedin 
 
 <br/>
@@ -22,7 +20,7 @@ You can find me here too 👇
  <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
-<a href="https://www.linkedin.com/in/juliana-conde-b2385362/" target="_blank">
+<a href="https://www.linkedin.com/in/julianaconde/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
 
