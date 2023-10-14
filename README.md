@@ -58,3 +58,10 @@ You can find me here too 👇
  <br>
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=julianaconde&show_icons=true)
+
+
+🦖 My Holopin's badges 
+
+
+[![An image of @julianaconde's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/julianaconde)](https://holopin.io/@julianaconde)
+
