@@ -27,6 +27,9 @@ You can find me here too 👇
 </div>
 <br>
 
+<img src="https://github.com/julianaconde/julianaconde/assets/29529757/bf0bf787-2044-4196-a768-9915025e4960" width="300px">
+
+
 # Tech Stack
 
 <div align="center"><br>
