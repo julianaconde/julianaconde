@@ -3,11 +3,9 @@
 <img src="https://komarev.com/ghpvc/?username=julianaconde&color=yellow" alt="Profile views" /> 
 
 
-👩‍🦱 I'm FullStack Developer & Instructor focused on helping people to start programming!
+👩‍🦱 I'm Senior FullStack Developer & Career Mentor focused on helping people to start programming!
 
 👩‍💻 I'm Member of Google's Women Techmakers 
-
-🤘 I’m currently working at [OneBitCode](https://github.com/OneBitCodeBlog)
 
 📝 I am the author of this weekly newsletter 👉 [Sudo apt-get Update](https://www.linkedin.com/newsletters/sudo-apt-get-update-6914370831196246016/) on Linkedin 
 
