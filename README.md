@@ -5,7 +5,7 @@
 
 👩‍🦱 I'm Senior FullStack Developer & Career Mentor focused on helping people to start programming!
 
-👩‍💻 I'm Member of Google's Women Techmakers 
+👩‍💻 I'm Google Women Techmakers Ambassador
 
 📝 I am the author of this weekly newsletter 👉 [Sudo apt-get Update](https://www.linkedin.com/newsletters/sudo-apt-get-update-6914370831196246016/) on Linkedin 
 
