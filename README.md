@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=julianaconde&color=yellow" alt="Profile views" /> 
 
 
-👩‍🦱 I'm Senior FullStack Developer & Career Mentor focused on helping people to start programming!
+👩‍🦱 I'm Senior Software Engineer & Career Mentor focused on helping people to start programming!
 
 👩‍💻 Google Women Techmakers Ambassador
 
