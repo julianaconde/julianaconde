@@ -4,16 +4,15 @@
 
 
 
-👩‍🦱 I'm Senior Software Engineer & Career Mentor focused on helping people to start programming!<br/><br/>
-🏅 GitHub Foundations Certified 
+### 👩‍🦱 I'm Senior Software Engineer & Career Mentor focused on helping people to start programming!<br/><br/>
+### 🏅 GitHub Foundations Certified 
+### 👩‍💻 Google Women Techmakers Ambassador
 
-👩‍💻 Google Women Techmakers Ambassador
-
-📝 I am the author of this biweekly newsletter 👉 [Sudo apt-get Update](https://www.linkedin.com/newsletters/sudo-apt-get-update-6914370831196246016/) on Linkedin 
+### 📝 I am the author of this biweekly newsletter 👉 [Sudo apt-get Update](https://www.linkedin.com/newsletters/sudo-apt-get-update-6914370831196246016/) on Linkedin 
 
 <br/>
 
-You can find me here too 👇
+### You can also find me here 👇
 
 <div>
 <a href="https://instagram.com/julianacondea" target="_blank">
