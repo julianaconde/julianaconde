@@ -12,6 +12,8 @@
 
 <br/>
 
+### ⭐ Github Community São José dos Campos Leader: [You can find us here](https://linktr.ee/githubcommunitysjc)
+
 ### You can also find me here 👇
 
 <div>
