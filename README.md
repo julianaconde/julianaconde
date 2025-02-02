@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=julianaconde&color=yellow" alt="Profile views" /> 
 
 
-
+ ⭐ GitHub Star<br/><br/>
  👩‍🦱 I'm Senior Software Engineer & Career Mentor focused on helping people to start programming!<br/><br/>
  🏅 GitHub Foundations Certified <br/><br/>
  👩‍💻 Google Women Techmakers Ambassador <br/><br/>
