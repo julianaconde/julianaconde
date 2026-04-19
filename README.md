@@ -6,7 +6,6 @@
  ⭐ GitHub Star<br/><br/>
  👩‍🦱 I'm Senior Software Engineer & Career Mentor focused on helping people to start programming!<br/><br/>
  🏅 GitHub Foundations Certified <br/><br/>
- 👩‍💻 Google Women Techmakers Ambassador <br/><br/>
  📝 I am the author of this biweekly newsletter 👉 [Sudo apt-get Update](https://www.linkedin.com/newsletters/sudo-apt-get-update-6914370831196246016/) on Linkedin 
 
 <br/>
